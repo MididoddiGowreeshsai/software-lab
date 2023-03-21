@@ -2,3 +2,4 @@ Mididoddi Gowreesh sai
 major : Computer science and engineering
 fav restar:biryani.com
 fav movie:inception
+fav color:blue
